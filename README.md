@@ -8,8 +8,8 @@
 
 - 😄 I've already mastered MERN Stack, Next.js and React Native.
 - 😊 I'm also an expert in WordPress and Shopify.
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Django and Flask.
+- 🔭 I’m currently working on Artificial Intelligence.
+- 🌱 I’m currently learning deep learning and NLP.
 - 🔔 Ask me anything about web development.
 
 <div align="center">
@@ -59,9 +59,9 @@
 
 ## 📞Contact Me📞
 
-- ☎ Telegram : excellent_c
-- 📠 Discord: erwinhofmann647
 - 📻 Skype: live:.cid.c7efd70698e49df0
+- 📠 Discord: erwinhofmann647
+- ☎ Telegram : excellent_c
 
 ## 🏫Education🏫
 
