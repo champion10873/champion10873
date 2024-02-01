@@ -61,7 +61,7 @@
 
 - 📻 Skype: live:.cid.c7efd70698e49df0
 - 📠 Discord: erwinhofmann647
-- ☎ Telegram : excellent_c
+- ☎ Telegram : golden_developer
 
 ## 🏫Education🏫
 
