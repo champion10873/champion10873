@@ -72,4 +72,3 @@
 
 - German: Native
 - English: Fluent
-- Chinese: Conversational
