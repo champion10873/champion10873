@@ -62,7 +62,7 @@
 - 📧 Email: erwinhofmann647@gmail.com
 - 📻 Skype: live:.cid.c7efd70698e49df0
 - 📠 Discord: erwinhofmann647
-- ☎ Telegram : golden_developer
+<!-- - ☎ Telegram : golden_developer -->
 
 ## 🏫Education🏫
 
