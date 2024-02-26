@@ -72,3 +72,11 @@
 
 - German: Native
 - English: Fluent
+
+<div align="center">
+
+# Do you want to see my past work?
+
+![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)
+
+</div>
