@@ -57,8 +57,21 @@
 
 <hr />
 
+## 📞Contact Me📞
+
+- 📧 Email: erwinhofmann647@gmail.com
+- 📻 Skype: live:.cid.c7efd70698e49df0
+- 📠 Discord: erwinhofmann647
 <!-- - ☎ Telegram : golden_developer -->
 
+## 🏫Education🏫
+
+- Technical University of Munich(Master's degree in computer science)
+
+## 🌍Languages🌍
+
+- German: Native
+- English: Fluent
 
 <div align="center">
 
