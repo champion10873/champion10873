@@ -70,11 +70,9 @@
 
 # Do you want to see my past work?
 
-![Yoottle](https://github.com/champion10873/champion10873/blob/main/img/01.jpg?raw=true)
 ![GreenDropShip](https://github.com/champion10873/champion10873/blob/main/img/02.jpg?raw=true)
 ![Car & Bike](https://github.com/champion10873/champion10873/blob/main/img/03.jpg?raw=true)
 ![luxury](https://github.com/champion10873/champion10873/blob/main/img/06.jpg?raw=true)
-![hotel](https://github.com/champion10873/champion10873/blob/main/img/09.jpg?raw=true)
 ![casino](https://github.com/champion10873/champion10873/blob/main/img/10.jpg?raw=true)
 ![T-shirt](https://github.com/champion10873/champion10873/blob/main/img/12.jpg?raw=true)
 ![swisscars24](https://github.com/champion10873/champion10873/blob/main/img/11.jpg?raw=true)
