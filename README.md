@@ -57,15 +57,6 @@
 
 <hr />
 
-## 🏫Education🏫
-
-- Technical University of Munich(Master's degree in computer science)
-
-## 🌍Languages🌍
-
-- German: Native
-- English: Fluent
-
 <div align="center">
 
 # Do you want to see my past work?
