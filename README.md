@@ -4,13 +4,14 @@
   ✨🎉🎊Welcome to My World!🎊🎉✨
 </h1>
 
-## 💎Senior Web Developer💎
+## 💎Senior Full Stack Developer💎
 
-- 😄 I've already mastered MERN Stack, Next.js and React Native.
-- 😊 I'm also an expert in WordPress and Shopify.
-- 🔭 I’m currently working on Artificial Intelligence.
-- 🌱 I’m currently learning deep learning and NLP.
-- 🔔 Ask me anything about web development.
+- Web Development, NFT Marketplace, Smart Contract, Web3.js, Trading Bot
+- MERN Stack, NextJS, Django
+- Solidity, Rust, Anchor, DeFi, DApp, NFT, Raydium, Pump.fun, RPC
+- Mobile-First, Responsive, Speed/Performance Optimization
+- Responsible, Enjoying challenges, Easy to work with
+- Bachelor of Computer Science
 
 <div align="center">
 <h1> Languages and Tools </h1>
@@ -34,24 +35,11 @@
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/wix/wix-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg"></code>
-<br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/anchoreio/anchoreio-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <br />
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </div>
 
@@ -61,11 +49,9 @@
 
 # Do you want to see my past work?
 
-![GreenDropShip](https://github.com/champion10873/champion10873/blob/main/img/02.jpg?raw=true)
 ![Car & Bike](https://github.com/champion10873/champion10873/blob/main/img/03.jpg?raw=true)
-![luxury](https://github.com/champion10873/champion10873/blob/main/img/06.jpg?raw=true)
 ![casino](https://github.com/champion10873/champion10873/blob/main/img/10.jpg?raw=true)
-![T-shirt](https://github.com/champion10873/champion10873/blob/main/img/12.jpg?raw=true)
-![swisscars24](https://github.com/champion10873/champion10873/blob/main/img/11.jpg?raw=true)
+![metacade](https://github.com/champion10873/champion10873/blob/main/img/01.png?raw=true)
+![mintable](https://github.com/champion10873/champion10873/blob/main/img/02.png?raw=true)
 
 </div>
