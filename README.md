@@ -45,13 +45,3 @@
 
 <hr />
 
-<div align="center">
-
-# Do you want to see my past work?
-
-![Car & Bike](https://github.com/champion10873/champion10873/blob/main/img/03.jpg?raw=true)
-![casino](https://github.com/champion10873/champion10873/blob/main/img/10.jpg?raw=true)
-![metacade](https://github.com/champion10873/champion10873/blob/main/img/01.png?raw=true)
-![mintable](https://github.com/champion10873/champion10873/blob/main/img/02.png?raw=true)
-
-</div>
