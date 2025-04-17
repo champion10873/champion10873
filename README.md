@@ -7,9 +7,10 @@
 ## 💎Senior Full Stack Developer💎
 
 - Web Development, NFT Marketplace, Smart Contract, Web3.js, Trading Bot
-- MERN Stack, NextJS, Django
+- MERN Stack, NextJS, Django, Flask, FastAPI
 - Solidity, Rust, Anchor, DeFi, DApp, NFT, Raydium, Pump.fun, RPC
 - Mobile-First, Responsive, Speed/Performance Optimization
+- Web Scraping & AI Automation
 - Responsible, Enjoying challenges, Easy to work with
 - Bachelor of Computer Science
 
